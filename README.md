@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **yasirunavoda518@gmail.com**
-
+- Portfolio - https://yasirunavoda.netlify.app/
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
